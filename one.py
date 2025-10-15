@@ -1,6 +1,8 @@
-import sympi
-from sympi import symbols 
-from sympi.solvers import solve
+#solving limits 
+
+import sympy
+from sympy import symbols 
+from sympy.solvers import solve
 
 x = symbols("x")
 
